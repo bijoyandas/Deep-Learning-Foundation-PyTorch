@@ -1,6 +1,6 @@
 # Deep-Learning-Foundation-PyTorch
 
-### Make sure to give this repository a "star" to be updated
+### Make sure to give this repository a <i>"star"</i> to be updated
 ### For any corrections, please create a fork and send your changes as part of a pull request
 
 Follow me on LinkedIn: https://www.linkedin.com/in/bijoyandas/ <br>
